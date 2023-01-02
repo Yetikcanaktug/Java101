@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f6cdd79-102f-430b-8350-60d3bb575fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Taksimetre/TaksimetreHesap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DaireAlanHesabi/DaireAlanHesapProgrami.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TaksimetreHesap">
+  <component name="RunManager" selected="Application.DaireAlanHesapProgrami">
+    <configuration name="DaireAlanHesapProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DaireAlanHesabi.DaireAlanHesapProgrami" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DaireAlanHesabi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KdvHesaplayanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KdvHesaplama.KdvHesaplayanProgram" />
       <module name="Java101" />
@@ -100,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaireAlanHesapProgrami" />
         <item itemvalue="Application.TaksimetreHesap" />
         <item itemvalue="Application.UcgenAlanHesaplama" />
         <item itemvalue="Application.KdvHesaplayanProgram" />
@@ -115,11 +129,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672667245837</updated>
-      <workItem from="1672667247029" duration="6628000" />
+      <workItem from="1672667247029" duration="7353000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DaireAlanHesabi/DaireAlanHesapProgrami.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
