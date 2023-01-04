@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f6cdd79-102f-430b-8350-60d3bb575fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/VucutKitleIndex/VucutKitleIndexCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManavKasaProgram/ManavCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VucutKitleIndexCalculator">
+  <component name="RunManager" selected="Application.ManavCalculator">
     <configuration name="DaireAlanHesapProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaireAlanHesabi.DaireAlanHesapProgrami" />
       <module name="Java101" />
@@ -59,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KdvHesaplayanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KdvHesaplama.KdvHesaplayanProgram" />
+    <configuration name="ManavCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManavKasaProgram.ManavCalculator" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KdvHesaplama.*" />
+          <option name="PATTERN" value="ManavKasaProgram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManavCalculator" />
         <item itemvalue="Application.VucutKitleIndexCalculator" />
         <item itemvalue="Application.DaireAlanHesapProgrami" />
         <item itemvalue="Application.TaksimetreHesap" />
         <item itemvalue="Application.UcgenAlanHesaplama" />
-        <item itemvalue="Application.KdvHesaplayanProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672667245837</updated>
       <workItem from="1672667247029" duration="7988000" />
-      <workItem from="1672825686084" duration="513000" />
+      <workItem from="1672825686084" duration="1154000" />
     </task>
     <servers />
   </component>
