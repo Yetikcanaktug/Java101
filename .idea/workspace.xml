@@ -47,7 +47,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Kullanici">
+  <component name="RunManager" selected="Application.Sifre">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CalculatorProject.Calculator" />
       <module name="Java101" />
@@ -115,8 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Kullanici" />
         <item itemvalue="Application.Sifre" />
+        <item itemvalue="Application.Kullanici" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.KarsilastirmaOperatoruEgzersiz" />
         <item itemvalue="Application.ManavCalculator" />
