@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f6cdd79-102f-430b-8350-60d3bb575fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SinifGecme/SinifGecme2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SinifGecme/SinifGecmeHesaplayici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ActivityByWeather/Activities.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
     "node.js.detected.package.eslint": "true",
@@ -47,13 +47,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SinifGecme2">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculatorProject.Calculator" />
+  <component name="RunManager" selected="Application.Activities">
+    <configuration name="Activities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ActivityByWeather.Activities" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CalculatorProject.*" />
+          <option name="PATTERN" value="ActivityByWeather.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kullanici" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KullaniciGirisi.Kullanici" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatorProject.Calculator" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KullaniciGirisi.*" />
+          <option name="PATTERN" value="CalculatorProject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Activities" />
         <item itemvalue="Application.SinifGecme2" />
         <item itemvalue="Application.SinifGecmeHesaplayici" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Sifre" />
-        <item itemvalue="Application.Kullanici" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,7 @@
       <updated>1672667245837</updated>
       <workItem from="1672667247029" duration="7988000" />
       <workItem from="1672825686084" duration="2792000" />
-      <workItem from="1673030226812" duration="15030000" />
+      <workItem from="1673030226812" duration="16712000" />
     </task>
     <servers />
   </component>
@@ -150,7 +150,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/SinifGecme/SinifGecmeHesaplayici.java</url>
-          <line>5</line>
+          <line>4</line>
           <properties class="SinifGecme.SinifGecmeHesaplayici" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
