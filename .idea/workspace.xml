@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f6cdd79-102f-430b-8350-60d3bb575fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ZodiacSignFinder/ZodiacSignFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlightTicketPriceCalculator/FlightTicketPriceCalculation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ZodiacSignFinder">
+  <component name="RunManager" selected="Application.FlightTicketPriceCalculation">
     <configuration name="Activities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ActivityByWeather.Activities" />
       <module name="Java101" />
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinifGecme2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SinifGecme.SinifGecme2" />
+    <configuration name="FlightTicketPriceCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlightTicketPriceCalculator.FlightTicketPriceCalculation" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SinifGecme.*" />
+          <option name="PATTERN" value="FlightTicketPriceCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlightTicketPriceCalculation" />
         <item itemvalue="Application.ZodiacSignFinder" />
         <item itemvalue="Application.SmallToBigProject" />
         <item itemvalue="Application.BigToSmallProject" />
         <item itemvalue="Application.Activities" />
-        <item itemvalue="Application.SinifGecme2" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,7 @@
       <updated>1672667245837</updated>
       <workItem from="1672667247029" duration="7988000" />
       <workItem from="1672825686084" duration="2792000" />
-      <workItem from="1673030226812" duration="26003000" />
+      <workItem from="1673030226812" duration="30838000" />
     </task>
     <servers />
   </component>
