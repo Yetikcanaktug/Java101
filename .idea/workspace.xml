@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f6cdd79-102f-430b-8350-60d3bb575fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ActivityByWeather/Activities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigToSmall/BigToSmallProject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Activities">
+  <component name="RunManager" selected="Application.SmallToBigProject">
     <configuration name="Activities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ActivityByWeather.Activities" />
       <module name="Java101" />
@@ -61,25 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculatorProject.Calculator" />
+    <configuration name="BigToSmallProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BigToSmall.BigToSmallProject" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CalculatorProject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sifre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KullaniciSifre.Sifre" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="KullaniciSifre.*" />
+          <option name="PATTERN" value="BigToSmall.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmallToBigProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BigToSmall.SmallToBigProject" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BigToSmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallToBigProject" />
+        <item itemvalue="Application.BigToSmallProject" />
         <item itemvalue="Application.Activities" />
         <item itemvalue="Application.SinifGecme2" />
         <item itemvalue="Application.SinifGecmeHesaplayici" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Sifre" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,7 @@
       <updated>1672667245837</updated>
       <workItem from="1672667247029" duration="7988000" />
       <workItem from="1672825686084" duration="2792000" />
-      <workItem from="1673030226812" duration="16712000" />
+      <workItem from="1673030226812" duration="24142000" />
     </task>
     <servers />
   </component>
@@ -147,6 +147,11 @@
           <url>file://$PROJECT_DIR$/src/DaireAlanHesabi/DaireAlanHesapProgrami.java</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BigToSmall/BigToSmallProject.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/SinifGecme/SinifGecmeHesaplayici.java</url>
