@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f6cdd79-102f-430b-8350-60d3bb575fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FlightTicketPriceCalculator/FlightTicketPriceCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChineseZodiacCalculation/ChineseZodiac.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,28 +32,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FlightTicketPriceCalculation">
-    <configuration name="Activities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ActivityByWeather.Activities" />
+}</component>
+  <component name="RunManager" selected="Application.ChineseZodiac">
+    <configuration name="BigToSmallProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BigToSmall.BigToSmallProject" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ActivityByWeather.*" />
+          <option name="PATTERN" value="BigToSmall.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BigToSmallProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BigToSmall.BigToSmallProject" />
+    <configuration name="ChineseZodiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChineseZodiacCalculation.ChineseZodiac" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BigToSmall.*" />
+          <option name="PATTERN" value="ChineseZodiacCalculation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChineseZodiac" />
         <item itemvalue="Application.FlightTicketPriceCalculation" />
         <item itemvalue="Application.ZodiacSignFinder" />
         <item itemvalue="Application.SmallToBigProject" />
         <item itemvalue="Application.BigToSmallProject" />
-        <item itemvalue="Application.Activities" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,8 @@
       <updated>1672667245837</updated>
       <workItem from="1672667247029" duration="7988000" />
       <workItem from="1672825686084" duration="2792000" />
-      <workItem from="1673030226812" duration="30838000" />
+      <workItem from="1673030226812" duration="31476000" />
+      <workItem from="1673290476188" duration="656000" />
     </task>
     <servers />
   </component>
