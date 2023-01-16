@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f6cdd79-102f-430b-8350-60d3bb575fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Calculator3/Calculator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorielCalculator/Factoriel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Calculator3">
+  <component name="RunManager" selected="Application.Factoriel">
     <configuration name="Calculator3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator3.Calculator3" />
       <module name="Java101" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChineseZodiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChineseZodiacCalculation.ChineseZodiac" />
+    <configuration name="Factoriel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactorielCalculator.Factoriel" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChineseZodiacCalculation.*" />
+          <option name="PATTERN" value="FactorielCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factoriel" />
         <item itemvalue="Application.Calculator3" />
         <item itemvalue="Application.CalculatorNew" />
         <item itemvalue="Application.CalculatorWithWhile" />
         <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.ChineseZodiac" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,7 @@
       <workItem from="1673290476188" duration="1814000" />
       <workItem from="1673377503444" duration="1231000" />
       <workItem from="1673806209020" duration="5124000" />
-      <workItem from="1673892058618" duration="622000" />
+      <workItem from="1673892058618" duration="1603000" />
     </task>
     <servers />
   </component>
@@ -168,6 +168,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FactorielCalculator/Factoriel.java</url>
+          <line>3</line>
+          <properties class="FactorielCalculator.Factoriel" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
