@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f6cdd79-102f-430b-8350-60d3bb575fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NumberSumCalculator/NSC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HarmonicSeries/HarmonicSeri.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,26 +50,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NSC">
+  <component name="RunManager" selected="Application.HarmonicSeri">
     <configuration name="Calculator3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator3.Calculator3" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Calculator3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculatorNew.CalculatorNew" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CalculatorNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HarmonicSeri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HarmonicSeries.HarmonicSeri" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HarmonicSeries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NSC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberSumCalculator.NSC" />
       <module name="Java101" />
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HarmonicSeri" />
         <item itemvalue="Application.NSC" />
         <item itemvalue="Application.ExpCalc" />
         <item itemvalue="Application.Factoriel" />
         <item itemvalue="Application.Calculator3" />
-        <item itemvalue="Application.CalculatorNew" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,7 @@
       <workItem from="1673290476188" duration="1814000" />
       <workItem from="1673377503444" duration="1231000" />
       <workItem from="1673806209020" duration="5124000" />
-      <workItem from="1673892058618" duration="3981000" />
+      <workItem from="1673892058618" duration="5237000" />
     </task>
     <servers />
   </component>
